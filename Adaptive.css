@@ -1,0 +1,315 @@
+@media(max-width:1200px){
+.Block_3 {
+    height: 690px;
+}.bl_dela div {
+    width: 370px;
+    height: 570px;
+    font-size: 15px;
+}.bl_dela div img {
+    width: 370px;
+    height: 350px;
+}
+}
+    
+    
+    
+@media(max-width:1150px){
+.bl_dela div img, .bl_dela div {
+    width: 340px;
+}
+}
+    
+    
+    
+    
+@media(max-width:1050px){
+.bl_dela div img, .bl_dela div {
+    width: 300px;
+}
+}
+    
+    
+    
+@media(max-width:1100px){
+.block_panin img {
+    width: 28%;
+    height: 370px;
+}
+}
+    
+
+
+@media(max-width:950px){
+.Block_3 {
+    height: 600px;
+}.bl_dela div {
+    width: 265px;
+    height: 490px;
+    font-size: 13px
+}.bl_dela div img {
+    width: 265px;
+    height: 280px;
+}  
+.header_1 {
+    width: 699px;
+}
+.header_2 p{
+    left: 34%;
+}
+}
+
+    
+    
+    
+@media(max-width:900px){
+
+.Block_4{
+    height: 1400px;
+}
+.bl_spec img{
+    width: 200px;
+    height: 300px;
+}
+#btn_exp {
+    width: 345px;
+}
+.Block_5{
+    height: 200px;
+    background-color: rgb(26, 19, 49);
+    border-bottom: 4px solid white;
+}
+.Block_5 > p{
+    height: 50px;
+    font-size: calc(var(--index) * 2);
+    box-sizing: border-box;
+}
+.Block_5 div{
+    display: none;
+}
+#btn_exp_ask{
+    display: block;
+}
+}
+    
+    
+    
+@media(max-width:850px){
+.Block_3 {
+    width: 100%;
+    height: 1400px;
+}
+.bl_dela {
+    flex-direction: column;
+    top: 16%;
+    height: 900px;
+}.bl_dela div {
+    width: 100%;
+}.bl_dela div img {
+    width: 100%;
+    height: 390px;
+}
+}
+    
+    
+    
+@media(max-width:800px){
+.usluga {
+    width: 270px;
+    height: 65px;
+}
+.block_panin img {
+    height: 300px;
+}
+.block_panin figcaption {
+    height: 300px;
+    padding: 15px 5px;
+}
+.btn_call {
+    top: -135px;
+    width: 165px;
+    height: 17px;
+    padding: 10px;
+    font-size: 15px;
+}
+}
+    
+    
+    
+@media(max-width:750px){
+.header_1 {
+    height: 163px;
+}
+.bl_contacts {
+    width: 80%;
+    font-size: 12px;
+}
+
+.bl_contacts nav {
+    width: 60px;
+}.bl_contacts nav img{
+    width: 18px;
+    height: 18px;
+}
+.bl_name_site p {
+    font-size: calc(var(--index) * 3);
+}
+.DOP_bl_list{
+    display: flex;
+}
+.DOP_bl_list a{
+    color: white;
+    margin-top: 10px;
+}
+.btn_call {
+    top: -130px;
+    left: 0%;
+}
+.bl_list, .block_panin {
+    display: none;
+}
+}
+    
+
+
+@media(max-width:700px){
+.Block_2 {
+    height: 600px;
+}
+.usluga {
+    width: 235px;
+    height: 60px;
+}
+
+.header_2 p{
+    left: 30%;
+}
+}
+
+
+
+    
+@media(max-width:675px){
+.bl_spec {
+    width: 113%;
+}
+.Block_3 {
+    height: 1295px;
+}
+.bl_dela {
+    top: 13%;
+}
+.bl_dela div img {
+    height: 340px;
+}
+}
+    
+    
+    
+@media(max-width:610px){
+.usluga {
+    width: 200px;
+    height: 55px;
+    font-size: 17px;
+}
+.bl_contacts {
+    width: 70%;
+}
+}
+
+
+    
+    
+@media(max-width:550px){
+.block_uslug {
+    top: 47%;
+    height: 535px;
+}
+.usluga {
+    width: 400px;
+    height: 45px;
+}
+
+.Block_3 {
+    height: 1225px;
+}.bl_dela {
+    top: 11%;
+}
+.bl_dela div img {
+    height: 300px;
+}
+
+.header_2 p{
+    left: 25%;
+}
+}
+    
+    
+    
+/*------------------------------------------------- Mobile version -----------------------*/
+@media(max-width:490px){
+footer{
+    font-size: 12px;
+}
+.list_nav ul {
+    margin: 116px -160px;
+}
+.list_nav p {
+    font-size: 24px;
+}
+.list_nav ul a li {
+    font-size: 17px;
+    width: 175px;
+}
+aside {
+    width: 260px;
+    height: 845px;
+}
+.block_call {
+    width: 330px;
+}
+    
+.bl_contacts {
+    width: 60%;
+}
+.btn_call {
+    width: 180px;
+    height: 25px;
+    font-size: 13px;
+}
+.nav_call {
+    top: 600px;
+    right: 10px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    transform: rotate(0deg);
+    padding-top: 10px;
+    font-size: 13px;
+}
+     
+.header_2 p {
+    left: 19%;
+    font-size: 19px;
+}
+
+.bl_spec div {
+    width: 1000px;
+    font-size: 13px;
+    padding:10px;
+}
+.bl_spec img {
+    width: 174px;
+    height: 265px;
+}
+    
+.foter_wrap div p {
+    font-size: 13px;
+    font-weight: normal;
+}  
+footer {
+    height: 290px;
+}
+    
+}        
+            
+               
